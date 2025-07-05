@@ -1,0 +1,41 @@
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container navbar-container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+            <a class="navbar-brand" href="{{ site.baseurl }}/">
+                <!--<span><img src="{{site.baseurl}}/img/logonav.png" alt="Logo"></span> {{ site.title }}-->
+                {{ site.title }}
+            </a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+            <div class="navbar-right">
+                <form class="navbar-form navbar-left">
+                    <div class="form-group has-feedback">
+                        <input id="search-box" type="text" class="form-control" placeholder="Search...">
+                        <i class="fa fa-search form-control-feedback"></i>
+                    </div>
+                </form>
+            </div>
+            <ul class="nav navbar-nav">
+                <li {% if page.sectionid=='home' %} class="active" {% endif %}><a href="{{ "/" | prepend: site.baseurl }}">首頁</a></li>
+                <li {% if page.sectionid=='origin' %} class="active" {% endif %}><a href="{{ "/origin/" | prepend: site.baseurl }}">成立緣起</a></li>
+                <li {% if page.sectionid=='about' %} class="active" {% endif %}><a href="{{ "/about/" | prepend: site.baseurl }}">關於母校</a></li>
+                <li {% if page.sectionid=='classmates_ai' %} class="active" {% endif %}><a href="{{ "/classmates_ai/" | prepend: site.baseurl }}">愛班同學</a></li>
+                <li {% if page.sectionid=='classmates_xin' %} class="active" {% endif %}><a href="{{ "/classmates_xin/" | prepend: site.baseurl }}">信班同學</a></li>
+                <li {% if page.sectionid=='classmates_yi' %} class="active" {% endif %}><a href="{{ "/classmates_yi/" | prepend: site.baseurl }}">義班同學</a></li>
+                <li {% if page.sectionid=='honors' %} class="active" {% endif %}><a href="{{ "/honors/" | prepend: site.baseurl }}">光榮事蹟</a></li>
+                <li {% if page.sectionid=='life' %} class="active" {% endif %}><a href="{{ "/life/" | prepend: site.baseurl }}">生活點滴</a></li>
+                <li {% if page.sectionid=='donate' %} class="active" {% endif %}><a href="{{ "/donate/" | prepend: site.baseurl }}">捐贈母校</a></li>
+                <li {% if page.sectionid=='update' %} class="active" {% endif %}><a href="{{ "/update/" | prepend: site.baseurl }}">最新動態</a></li>
+                <li {% if page.sectionid=='activity' %} class="active" {% endif %}><a href="{{ "/activity/" | prepend: site.baseurl }}">活動基金</a></li>
+                <li {% if page.sectionid=='contact' %} class="active" {% endif %}><a href="{{ "/contact/" | prepend: site.baseurl }}">聯絡我們</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+

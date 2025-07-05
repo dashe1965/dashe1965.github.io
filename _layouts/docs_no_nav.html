@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="container">
+    <div 
+{% if page.sectionid=='origin' %} class="page-header-container-group" {% endif %} 
+{% if page.sectionid=='about' %} class="page-header-container-school" {% endif %} 
+{% if page.sectionid=='classmates_ai' %} class="page-header-container-group" {% endif %} 
+{% if page.sectionid=='classmates_xin' %} class="page-header-container-group" {% endif %} 
+{% if page.sectionid=='classmates_yi' %} class="page-header-container-group" {% endif %} 
+{% if page.sectionid=='honors' %} class="page-header-container-group" {% endif %} 
+{% if page.sectionid=='life' %} class="page-header-container-group" {% endif %} 
+{% if page.sectionid=='donate' %} class="page-header-container-school" {% endif %} 
+{% if page.sectionid=='update' %} class="page-header-container-group" {% endif %} 
+{% if page.sectionid=='activity' %} class="page-header-container-group" {% endif %} 
+{% if page.sectionid=='contact' %} class="page-header-container-group" {% endif %} 
+></div>
+    <div class="row">
+        <h4>{{ page.title }}</h4>
+        <div id="markdown-content-container">{{ content }}</div>
+        <!--
+        <div style="clear:both;">
+          <p class="text-center">
+            <br />
+            <a target="_blank" href="{{site.git_edit_address}}/{{ page.path }}" class="btn btn-default githubEditButton" role="button">
+              <i class="fa fa-pencil fa-lg"></i> Improve this page
+            </a>
+          </p>
+        </div>
+        -->
+        <hr>
+        {% include section_nav.html %}
+    </div>
+</div>
