@@ -3,6 +3,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <!-- overwrite title for the index page -->
+    {% if page.sectionid=='home' %}
+    <title>首頁 | 高雄市路竹區大社國民小學1965級愛信義班畢業同學會</title>
+    {% endif %}
+
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/font-awesome.min.css" | prepend: site.baseurl }}">
 

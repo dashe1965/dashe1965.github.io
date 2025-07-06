@@ -4,7 +4,7 @@ permalink: /contact/
 sectionid: contact
 ---
 
-**聯絡人**
+聯絡人
 
 - 王叁成 同學會會長<br/>
   email: wsc5888@gmail.com
@@ -15,7 +15,7 @@ sectionid: contact
 - 王猷裁 信班同學<br/>
   email: yus410908@yahoo.com.tw
 
-**網站設計**
+網站設計
 
 - 郭彥伶 臺大資工系<br/>
   email: yenlingkuo.m@gmail.com
