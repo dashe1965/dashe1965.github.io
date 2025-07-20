@@ -30,7 +30,7 @@ sectionid: Resume
       </td>
     </tr>
     <tr>
-      <td style="text-align: center; vertical-align: middle; font-weight: 600; font-size: 1.2em; padding: 10px 0; border: none;">
+      <td style="text-align: center; vertical-align: middle; padding: 10px 0; border: none;">
         王俊雄
       </td>
       <td style="vertical-align: middle; font-size: 0.95em; color: #333; border: none; padding-left: 10px;">
@@ -38,7 +38,7 @@ sectionid: Resume
       </td>
     </tr>
     <tr>
-      <td style="text-align: center; vertical-align: middle; font-weight: 600; font-size: 1.2em; padding: 10px 0; border: none;">
+      <td style="text-align: center; vertical-align: middle; padding: 10px 0; border: none;">
         謝金花
       </td>
       <td style="vertical-align: middle; font-size: 0.95em; color: #333; line-height: 1.5; border: none; padding-left: 10px;">
@@ -47,7 +47,7 @@ sectionid: Resume
       </td>
     </tr>
     <tr>
-      <td style="text-align: center; vertical-align: middle; font-weight: 600; font-size: 1.2em; padding: 10px 0; border: none;">
+      <td style="text-align: center; vertical-align: middle; padding: 10px 0; border: none;">
         楊春龍
       </td>
       <td style="vertical-align: middle; font-size: 0.95em; color: #333; border: none; padding-left: 10px;">
@@ -55,7 +55,7 @@ sectionid: Resume
       </td>
     </tr>
     <tr>
-      <td style="text-align: center; vertical-align: middle; font-weight: 600; font-size: 1.2em; padding: 10px 0; border: none;">
+      <td style="text-align: center; vertical-align: middle; padding: 10px 0; border: none;">
         陳清智
       </td>
       <td style="vertical-align: middle; font-size: 0.95em; color: #333; border: none; padding-left: 10px;">
@@ -63,7 +63,7 @@ sectionid: Resume
       </td>
     </tr>
     <tr>
-      <td style="text-align: center; vertical-align: middle; font-weight: 600; font-size: 1.2em; padding: 10px 0; border: none;">
+      <td style="text-align: center; vertical-align: middle; padding: 10px 0; border: none;">
         王榮騰
       </td>
       <td style="vertical-align: middle; font-size: 0.95em; color: #333; line-height: 1.5; border: none; padding-left: 10px;">
@@ -73,7 +73,7 @@ sectionid: Resume
       </td>
     </tr>
     <tr>
-      <td style="text-align: center; vertical-align: middle; font-weight: 600; font-size: 1.2em; padding: 10px 0; border: none;">
+      <td style="text-align: center; vertical-align: middle; padding: 10px 0; border: none;">
         王猷裁
       </td>
       <td style="vertical-align: middle; font-size: 0.95em; color: #333; line-height: 1.5; border: none; padding-left: 10px;">
@@ -82,7 +82,7 @@ sectionid: Resume
       </td>
     </tr>
     <tr>
-      <td style="text-align: center; vertical-align: middle; font-weight: 600; font-size: 1.2em; padding: 10px 0; border: none;">
+      <td style="text-align: center; vertical-align: middle; padding: 10px 0; border: none;">
         王萬枝
       </td>
       <td style="vertical-align: middle; font-size: 0.95em; color: #333; line-height: 1.5; border: none; padding-left: 10px;">
@@ -91,7 +91,7 @@ sectionid: Resume
       </td>
     </tr>
     <tr>
-      <td style="text-align: center; vertical-align: middle; font-weight: 600; font-size: 1.2em; padding: 10px 0; border: none;">
+      <td style="text-align: center; vertical-align: middle; padding: 10px 0; border: none;">
         黃萬清
       </td>
       <td style="vertical-align: middle; font-size: 0.95em; color: #333; border: none; padding-left: 10px;">
@@ -99,7 +99,7 @@ sectionid: Resume
       </td>
     </tr>
     <tr>
-      <td style="text-align: center; vertical-align: middle; font-weight: 600; font-size: 1.2em; padding: 10px 0; border: none;">
+      <td style="text-align: center; vertical-align: middle; padding: 10px 0; border: none;">
         程子桓
       </td>
       <td style="vertical-align: middle; font-size: 0.95em; color: #333; line-height: 1.5; border: none; padding-left: 10px;">
