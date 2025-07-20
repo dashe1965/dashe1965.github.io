@@ -4,7 +4,6 @@ permalink: /Resume/
 sectionid: Resume
 ---
 
-<table>
   <style>
   .resume-table {
     width: 100%;
