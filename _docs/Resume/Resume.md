@@ -99,10 +99,10 @@ sectionid: Resume
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; vertical-align: middle; padding: 10px; border-bottom: 1px solid #ccc;">
+      <td style="text-align:center; vertical-align: middle; padding: 10px; ">
         程子桓
       </td>
-      <td style="vertical-align: middle; line-height: 1.5; border-bottom: 1px solid #ccc; padding-left: 10px;">
+      <td style="vertical-align: middle; line-height: 1.5; padding-left: 10px;">
         立創光電董事長<br>
         國家航空中心[福衛八號]衛星研發成果豐碩榮獲總統肯定<br>
         高雄市政府與中央共同推動航太產業轉型升級優良廠商
