@@ -9,8 +9,6 @@ sectionid: Resume
       <th style="text-align: center; padding: 10px; border: none;">姓   名</th>
       <th style="text-align: left; padding: 10px; border: none;">特殊成就</th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td style="text-align:center; vertical-align: top; padding: 10px; border: none;">謝明裕</td>
       <td style="padding: 10px; border: none;">
