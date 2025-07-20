@@ -4,31 +4,40 @@ permalink: /Resume/
 sectionid: Resume
 ---
 
-| 姓  名 | 特殊成就 |
-|:------:|:--------:|
-| 王俊雄 | 80,000 |
-| 王進龍 |  5,500 |
-| 王萬枝 |  5,000 |
-| 王榮三 |  7,500 |
-| 王  雪 |  8,000 |
-| 王猷裁 | 21,500 |
-| 王繼宗 |  5,000 |
-| 王榮騰 | 30,000 |
-| 王枝守 |    600 |
-| 王金菊 |  2,000 |
-| 謝榮裕 |  5,000 |
-| 謝添進 |    500 |
-| 謝明裕 | 10,000 |
-| 謝忠仁 |  2,000 |
-| 謝金花 | 60,000 |
-| 陳清智 | 54,000 |
-| 陳武吉 |  4,000 |
-| 陳韻涵 |  4,000 |
-| 林光明 |  2,000 |
-| 林秀碧 | 21,000 |
-| 程子桓 | 70,000 |
-| 楊春龍 | 80,000 |
-| 楊美鳳 |  1,000 |
-| 趙正長 |  2,000 |
-|:------:|:------:|
-| 合  計 | 480,600 |
+<table style="border-collapse: collapse; width: 100%; max-width: 600px; font-family: Arial, sans-serif; border: none;">
+  <thead>
+    <tr>
+      <th style="text-align: center; padding: 8px; border: none;">姓名</th>
+      <th style="text-align: left; padding: 8px; border: none;">特殊成就</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center; vertical-align: top; padding: 8px; border: none;">謝明裕</td>
+      <td style="padding: 8px; border: none;">
+        高雄醫學大學肝膽腸胃科權威醫師<br>
+        路竹區大社國小傑出校友<br>
+        佛教慈濟慈善基金會榮譽董事
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align: top; padding: 8px; border: none;">王叁成</td>
+      <td style="padding: 8px; border: none;">
+        衛福部志願服務績優銅牌獎<br>
+        高雄市教育芬芳錄列名第一<br>
+        高雄縣特殊優良教師、十大愛心教師
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align: top; padding: 8px; border: none;">王俊雄</td>
+      <td style="padding: 8px; border: none;">東立飼料財務經理</td>
+    </tr>
+    <tr>
+      <td style="text-align:center; vertical-align: top; padding: 8px; border: none;">謝金花</td>
+      <td style="padding: 8px; border: none;">
+        聖志企業創辦人<br>
+        慈善捐贈逾兩仟萬元回饋社會
+      </td>
+    </tr>
+  </tbody>
+</table>
