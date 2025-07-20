@@ -3,7 +3,6 @@ title: 個人簡歷
 permalink: /Resume/
 sectionid: Resume
 ---
-
 <table style="border-collapse: collapse; width: 100%; max-width: 600px; font-family: Arial, sans-serif; border: none;">
   <thead>
     <tr>
