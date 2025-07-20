@@ -10,7 +10,9 @@ sectionid: Resume
       <th style="text-align: left; padding: 10px; border: none;">特殊成就</th>
     </tr>
     <tr>
-      <td style="text-align:center; vertical-align: top; padding: 10px; border: none;">謝明裕</td>
+      <td style="text-align:center; vertical-align: middle; padding: 10px; border: none;">
+        謝明裕
+      </td>
       <td style="padding: 10px; border: none;">
         高雄醫學大學肝膽腸胃科權威醫師<br>
         路竹區大社國小傑出校友<br>
