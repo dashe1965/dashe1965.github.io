@@ -16,7 +16,7 @@ sectionid: Resume
         路竹區大社國小傑出校友<br>
         佛教慈濟慈善基金會榮譽董事
       </td>
-    </tr>
+
     <tr>
       <td style="text-align: center; vertical-align: middle; padding: 10px 0; border: none;">
         王叁成
