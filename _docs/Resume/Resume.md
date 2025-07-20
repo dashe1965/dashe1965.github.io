@@ -7,8 +7,8 @@ sectionid: Resume
 <table style="width: 100%; max-width: 800px; font-family: '微軟正黑體', Arial, sans-serif; border: none;">
   <tbody>
     <tr>
-      <th style="text-align: center; padding: 10px; border: none;">姓 名</th>
-      <th style="text-align: center; padding: 10px; border: none;">特殊成就</th>
+      <th style="text-align: center; padding: 10px; border: none; font-size: 16px;">姓 名</th>
+      <th style="text-align: center; padding: 10px; border: none; font-size: 16px;">特殊成就</th>
     </tr>
     <tr>
       <td style="text-align:center; vertical-align: middle; padding: 10px; border-top: 2px solid #ccc;border-bottom: 1px solid #ccc;">
