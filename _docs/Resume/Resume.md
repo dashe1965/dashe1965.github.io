@@ -8,7 +8,7 @@ sectionid: Resume
   <tbody>
     <tr>
       <th style="text-align: center; padding: 10px; ">姓    名</th>
-      <th style="text-align: left; padding: 10px; ">特殊成就</th>
+      <th style="text-align: center; padding: 10px; ">特殊成就</th>
     </tr>
     <tr>
       <td style="text-align:center; vertical-align: middle; padding: 10px; border-top: 2px solid #ccc;border-bottom: 1px solid #ccc;">
