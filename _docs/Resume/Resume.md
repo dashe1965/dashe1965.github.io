@@ -10,10 +10,10 @@ sectionid: Resume
       <th style="text-align: left; padding: 10px; border: none;">特殊成就</th>
     </tr>
     <tr>
-      <td style="text-align:center; vertical-align: middle; padding: 10px; border: none;">
+      <td style="text-align:center; vertical-align: middle; padding: 10px; border-bottom: 1px solid #ccc;">
         謝明裕
       </td>
-      <td style="vertical-align: middle; line-height: 1.5; border: none; padding-left: 10px;">
+      <td style="vertical-align: middle; line-height: 1.5; border-bottom: 1px solid #ccc; padding-left: 10px;">
         高雄醫學大學肝膽腸胃科權威醫師<br>
         路竹區大社國小傑出校友<br>
         佛教慈濟慈善基金會榮譽董事
