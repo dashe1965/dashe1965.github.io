@@ -6,15 +6,18 @@ sectionid: Resume
 <table style="width: 100%; max-width: 600px; font-family: '微軟正黑體', Arial, sans-serif; border-collapse: collapse; border: none;">
   <tbody>
     <tr>
-      <td style="width: 100px; text-align: center; vertical-align: middle; padding: 10px 0; border: none;">
-        謝明裕
-      </td>
-      <td style="vertical-align: middle; font-size: 1em; color: #333; line-height: 1.5; border: none; padding-left: 10px;">
+      <th style="text-align: center; padding: 8px; border: none;">姓名</th>
+      <th style="text-align: left; padding: 8px; border: none;">特殊成就</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center; vertical-align: top; padding: 8px; border: none;">謝明裕</td>
+      <td style="padding: 8px; border: none;">
         高雄醫學大學肝膽腸胃科權威醫師<br>
         路竹區大社國小傑出校友<br>
         佛教慈濟慈善基金會榮譽董事
       </td>
-    </tr>
     <tr>
       <td style="text-align: center; vertical-align: middle; font-weight: 600; font-size: 1.2em; padding: 10px 0; border: none;">
         王叁成
