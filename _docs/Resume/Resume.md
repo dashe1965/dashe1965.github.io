@@ -13,7 +13,7 @@ sectionid: Resume
       <td style="text-align:center; vertical-align: middle; padding: 10px; border: none;">
         謝明裕
       </td>
-      <td style="padding: 10px; border: none;">
+      <td style="vertical-align: middle; line-height: 1.5; border: none; padding-left: 10px;">
         高雄醫學大學肝膽腸胃科權威醫師<br>
         路竹區大社國小傑出校友<br>
         佛教慈濟慈善基金會榮譽董事
@@ -23,7 +23,7 @@ sectionid: Resume
       <td style="text-align: center; vertical-align: middle; padding: 10px 0; border: none;">
         王叁成
       </td>
-      <td style="vertical-align: middle; font-size: 0.95em; color: #333; line-height: 1.5; border: none; padding-left: 10px;">
+      <td style="vertical-align: middle; line-height: 1.5; border: none; padding-left: 10px;">
         衛福部志願服務績優銅牌獎<br>
         高雄市教育芬芳錄列名第一<br>
         高雄縣特殊優良教師、十大愛心教師
