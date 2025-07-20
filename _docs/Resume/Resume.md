@@ -3,7 +3,7 @@ title: 個人簡歷
 permalink: /Resume/
 sectionid: Resume
 ---
-
+<head>
   <style>
   .resume-table {
     width: 100%;
@@ -48,9 +48,11 @@ sectionid: Resume
   .resume-table tr:last-child td {
     border-bottom: none;
   }
-</style>
+  </style>
+</head>
 
-<table class="resume-table">
+<body>
+  <table class="resume-table">
 
   <thead>
     <tr>
@@ -138,5 +140,5 @@ sectionid: Resume
       </td>
     </tr>
     
-  </tbody>
-</table>
+  </table>
+</body>
