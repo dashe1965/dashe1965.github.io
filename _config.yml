@@ -116,6 +116,13 @@ defaults:
     sectionid: activity
 
 - scope:
+    path: _docs/songs
+    type: docs
+  values:
+    layout: docs_no_nav
+    sectionid: songs
+
+- scope:
     path: _docs/contact
     type: docs
   values:
