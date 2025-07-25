@@ -67,7 +67,7 @@ sectionid: Resume
       <td class="cell-achievement">
         高雄醫學大學肝膽腸胃科權威醫師<br>
         路竹區大社國小傑出校友<br>
-        佛教慈濟慈善基金會榮譽董事
+        台灣肝臟學術文教基金會董事
       </td>
     </tr>
     <tr>
