@@ -55,6 +55,27 @@ sectionid: songs
      燒肉粽 (1969) 郭金發 主唱
    </td>
   </tr>
+  
+  <tr> 
+   <td width="265px">
+     <iframe width="260" height="146" src="https://www.youtube.com/embed/drnBMAEA3AM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   </td>
+   <td class="photo-text">
+     The Sound of Music 主題曲 Do-Re-Mi (1965)<br>
+     Julie Andrews 主唱
+   </td>
+  </tr>
+  <tr> 
+   <td width="265px">
+     <iframe width="260" height="146" src="https://www.youtube.com/embed/Qy9cj-zwbVY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   </td>
+   <td class="photo-text">
+     The Sound of Music 主題曲 Do-Re-Mi (1965)<br>
+     Julie Andrews 主唱
+   </td>
+  </tr>
+  
+  
   <tr> 
    <td width="265px">
      <iframe width="260" height="146" src="https://www.youtube.com/embed/zmKLJ7OET28?si=bwVEcdGwoKxiTG5b" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
