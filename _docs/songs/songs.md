@@ -105,7 +105,7 @@ sectionid: songs
      <iframe width="260" height="146" src="https://www.youtube.com/embed/PYqw9A9bcAQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    </td>
    <td class="photo-text">
-     告別的年代 (1960) 旅人 製作
+     告別的年代 (1960) 旅人 制作
    </td>
   </tr>
 </table>
