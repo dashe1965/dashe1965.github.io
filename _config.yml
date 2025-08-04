@@ -123,6 +123,13 @@ defaults:
     sectionid: songs
 
 - scope:
+    path: _docs/classic_songs
+    type: docs
+  values:
+    layout: docs_no_nav
+    sectionid: classic_songs
+
+- scope:
     path: _docs/contact
     type: docs
   values:
