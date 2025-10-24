@@ -139,6 +139,14 @@ sectionid: Resume
         高雄市政府與中央共同推動航太產業轉型升級優良廠商
       </td>
     </tr>
+        <tr>
+      <td class="cell-name">蘇宗欽</td>
+      <td class="cell-achievement">
+        欽揚科技總經理<br>
+        擴編一甲國小國樂社為大型國樂團，屢獲全國性比賽績優<br>
+        自2010年起每年捐贈一甲國小累積達3百萬元
+      </td>
+    </tr>
   </tbody>  
   </table>
 </body>
