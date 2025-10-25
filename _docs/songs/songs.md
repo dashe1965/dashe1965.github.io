@@ -74,7 +74,7 @@ sectionid: songs
 
   <tr> 
    <td width="265px">
-     <iframe width="260" height="146" src="https://www.youtube.com/embed/s6T4DXRKYHM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+     <iframe width="260" height="146" src="https://www.youtube.com/embed/EBA-6-zPeZk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    </td>
    <td class="photo-text">
      Kiss Me Goodbye (1982) Petula Clark 主唱
