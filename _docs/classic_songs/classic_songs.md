@@ -44,10 +44,64 @@ sectionid: classic_songs
 
   <tr> 
    <td width="265px">
+     <iframe width="260" height="146" src="https://www.youtube.com/embed/DRI7DGv-f1U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   </td>
+   <td class="photo-text">
+     楓紅層層 (2004) 蕭麗珠 主唱
+   </td>
+  </tr>
+
+  <tr> 
+   <td width="265px">
      <iframe width="260" height="146" src="https://www.youtube.com/embed/7_lMG1tShXM?si=1ApSxETBj5hStViO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    </td>
    <td class="photo-text">
      酒是舞伴 你是生命 (1996) 曾心梅 主唱
+   </td>
+  </tr>
+
+  <tr> 
+   <td width="265px">
+     <iframe width="260" height="146" src="https://www.youtube.com/embed/GY_OR-TPNVA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   </td>
+   <td class="photo-text">
+     海海人生 (1992) 陳盈潔 主唱
+   </td>
+  </tr>
+
+  <tr> 
+   <td width="265px">
+     <iframe width="260" height="146" src="https://www.youtube.com/embed/Fp_0RVxcZoc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   </td>
+   <td class="photo-text">
+     愛拼才會贏 (1988) 葉啓田 主唱
+   </td>
+  </tr>
+
+  <tr> 
+   <td width="265px">
+     <iframe width="260" height="146" src="https://www.youtube.com/embed/60P7rPo4jJQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   </td>
+   <td class="photo-text">
+     風飛沙 (1986) 陳盈潔 主唱
+   </td>
+  </tr>
+
+  <tr> 
+   <td width="265px">
+     <iframe width="260" height="146" src="https://www.youtube.com/embed/yGUh3B6Nl60" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   </td>
+   <td class="photo-text">
+     昨夜星辰 (1984) 林淑容 主唱
+   </td>
+  </tr>
+
+    <tr> 
+   <td width="265px">
+     <iframe width="260" height="146" src="https://www.youtube.com/embed/-jWdr-Vegds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   </td>
+   <td class="photo-text">
+     梨花淚 (1977) 于櫻樱 主唱
    </td>
   </tr>
 
