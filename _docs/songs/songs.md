@@ -172,7 +172,8 @@ sectionid: songs
      <iframe width="260" height="146" src="https://www.youtube.com/embed/n_c8tChxB_o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    </td>
    <td class="photo-text">
-     農業社會的臺灣 (1959) 中華民國國家電影製片廠 攝製
+     農業社會的臺灣 (1959)<br>
+     中華民國國家電影製片廠 攝製
    </td>
   </tr>
 
