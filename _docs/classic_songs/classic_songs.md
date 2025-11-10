@@ -122,6 +122,24 @@ sectionid: classic_songs
      萍聚 (1967) 李翊君、李富興 合唱
    </td>
   </tr>
+
+  <tr> 
+   <td width="265px">
+     <iframe width="260" height="146" src="https://www.youtube.com/embed/q8DySTczchc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   </td>
+   <td class="photo-text">
+     被祝福的一代 (1943–1970)
+   </td>
+  </tr>
+
+  <tr> 
+   <td width="265px">
+     <iframe width="260" height="146" src="https://www.youtube.com/embed/wezaOzp_TBI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   </td>
+   <td class="photo-text">
+     我會在門口等你 (1945) 余秋雨 中國當代作家
+   </td>
+  </tr>
   
 </table>
 
