@@ -87,7 +87,8 @@ sectionid: Resume
         <tr>
       <td class="cell-name">謝金花</td>
       <td class="cell-achievement">
-        聖志企業創辦人<br>
+        聖志企業董事長<br>
+        路竹區大社國小傑出校友<br>
         慈善捐贈逾兩仟萬元回饋社會
       </td>
     </tr>
