@@ -8,6 +8,15 @@ sectionid: songs
 
   <tr> 
    <td width="265px">
+     <iframe width="260" height="146" src="https://www.youtube.com/embed/KpZrCG-7lnc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   </td>
+   <td class="photo-text">
+     蒼穹喚 (2025) 林鹿兒 主唱
+   </td>
+  </tr>
+
+  <tr> 
+   <td width="265px">
      <iframe width="260" height="146" src="https://www.youtube.com/embed/X1ScSXuCUyA?si=eM999aBew6FXq7uT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    </td>
    <td class="photo-text">
