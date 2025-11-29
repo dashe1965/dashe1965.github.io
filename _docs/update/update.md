@@ -37,6 +37,8 @@ sectionid: update
 
 **母校特色與特殊表現**
 
+- (11/16/2025) [大社125熱力奔騰，白髮七傑返校爆「不老青春」潮 (取自漾新聞)](https://www.youngnews3631.com/news_detail.php?NewsID=12868)
+- (11/15/2025) [母校慶祝第125屆校慶安排奪冠太鼓隊壓軸表演 (視頻)](https://youtu.be/CKsfcXH-98c)
 - (10/22/2025) [高市大社太鼓隊，舞龍鼓舞賽摘冠 (取自國語日報)](https://www.mdnkids.com/content.asp?Link_String_=23AM00000MTMFTE)
 - (10/20/2025) [路竹區大社國小太鼓隊，台南市議長盃舞龍鼓舞錦標賽奪冠 (取自高雄市政府教育局)](https://www.kh.edu.tw/publicInfo/bureauReport/20250292)
 - (10/18/2025) [鼓動榮耀！路竹大社國小太鼓隊勇奪全國冠軍！氣勢磅礡震撼全場 (取自漾新聞)](https://www.youngnews3631.com/news_detail.php?NewsID=12389)
