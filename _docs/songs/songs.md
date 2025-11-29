@@ -151,15 +151,6 @@ sectionid: songs
   
   <tr> 
    <td width="265px">
-     <iframe width="260" height="146" src="https://www.youtube.com/embed/zmKLJ7OET28?si=bwVEcdGwoKxiTG5b" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-   </td>
-   <td class="photo-text">
-     王昭君 (1964) 楊燕 主唱
-   </td>
-  </tr>
-  
-  <tr> 
-   <td width="265px">
      <iframe width="260" height="146" src="https://www.youtube.com/embed/RvJvvGUaYyE?si=Zv9pOaz0NMJr5Ik5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    </td>
    <td class="photo-text">
