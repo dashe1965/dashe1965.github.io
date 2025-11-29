@@ -71,6 +71,15 @@ sectionid: classic_songs
 
   <tr> 
    <td width="265px">
+     <iframe width="260" height="146" src="https://www.youtube.com/embed/hIHWpPFsfkg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   </td>
+   <td class="photo-text">
+     滾滾紅塵 (1990) 陳淑樺 主唱
+   </td>
+  </tr>
+
+  <tr> 
+   <td width="265px">
      <iframe width="260" height="146" src="https://www.youtube.com/embed/Fp_0RVxcZoc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    </td>
    <td class="photo-text">
