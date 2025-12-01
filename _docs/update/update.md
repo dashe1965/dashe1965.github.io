@@ -13,11 +13,11 @@ sectionid: update
 **同學會活動**
 
 - (11/15/2025) 第16次同學會 ([照片視頻](https://youtu.be/QZpL3JyDmD8))
-- (04/26/2025) 第15次同學會 ([照片視頻](/img/reunion_15.mp4))
-- (11/02/2024) 第14次同學會 ([照片視頻](/img/reunion_14.mp4))
-- (11/12/2023) 第13次同學會 ([照片視頻一](/img/reunion_13-1.mp4))、([照片視頻二](/img/reunion_13-2.mp4))
+- (04/26/2025) 第15次同學會 ([照片視頻](https://youtu.be/EvqQ9hTsBHI))
+- (11/02/2024) 第14次同學會 ([照片視頻](https://youtu.be/YcmxKPLMbq0))
+- (11/12/2023) 第13次同學會 ([照片視頻一](https://youtu.be/EgwBBXiLpEc))、([照片視頻二](https://youtu.be/KmPip0Hl4os))
 - (03/19/2023) 第12次同學會 ([照片視頻一](https://youtu.be/Uh2kXXuyxjU))、([照片視頻二](https://youtu.be/V8Pzms4cEFM))、([照片視頻三](https://youtu.be/OWG2ggfVgdI))
-- (01/15/2022) 第11次同學會 ([探路照片視頻](/img/reunion_11.mp4))
+- (01/15/2022) 第11次同學會 ([探路照片視頻](/img/reunion_11.mp4))  <!--音樂有著作權youtube不能正常撥放-->
 - (01/09/2022) 第十次同學會 ([照片視頻一](https://youtu.be/cyyE0joKxIY))、([照片視頻二](https://youtu.be/Dl_muTFgQBY))
 - (12/12/2020) 第九次同學會 ([照片視頻](https://youtu.be/GWNC5VGvrHo))
 - (11/02/2019) 第八次同學會 ([照片視頻](https://youtu.be/CLpYDSBWbsA))
