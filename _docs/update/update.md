@@ -16,19 +16,22 @@ sectionid: update
 - (04/26/2025) 第15次同學會 ([照片視頻](/img/reunion_15.mp4))
 - (11/02/2024) 第14次同學會 ([照片視頻](/img/reunion_14.mp4))
 - (11/12/2023) 第13次同學會 ([照片視頻一](/img/reunion_13-1.mp4))、([照片視頻二](/img/reunion_13-2.mp4))
-- (03/19/2023) 第12次同學會 ([照片視頻一](/img/reunion_12-1.mp4))、([照片視頻二](/img/reunion_12-2.mp4))、([照片視頻三](/img/reunion_12-3.mp4))
+- (03/19/2023) 第12次同學會 ([照片視頻一](https://youtu.be/Uh2kXXuyxjU))、([照片視頻二](https://youtu.be/V8Pzms4cEFM))、([照片視頻三](https://youtu.be/OWG2ggfVgdI))
 - (01/15/2022) 第11次同學會 ([探路照片視頻](/img/reunion_11.mp4))
-- (01/09/2022) 第十次同學會 ([照片視頻一](/img/reunion_10-1.mp4))、([照片視頻二](/img/reunion_10-2.mp4))
-- (12/12/2020) 第九次同學會 ([照片視頻](/img/reunion_9.mp4))
-- (11/02/2019) 第八次同學會 ([照片視頻](/img/reunion_8.mp4))
-- (06/15/2019) 第七次同學會 ([照片視頻一](/img/reunion_7-1.mp4))、([照片視頻二](/img/reunion_7-2.mp4))、([照片視頻三](/img/reunion_7-3.mp4))
-- (12/08/2018) 第六次同學會 ([照片視頻一](/img/reunion_6-1.mp4))、([照片視頻二](/img/reunion_6-2.mp4))、([照片視頻三](/img/reunion_6-3.mp4))
-- (12/30/2017) 第五次同學會 ([照片視頻](/img/reunion_5.mp4))
-- (12/11/2016) 第四次同學會 ([照片視頻](/img/reunion_4.mp4))
-- (12/27/2015) 第三次同學會 ([照片視頻](/img/reunion_3.mp4))
+- (01/09/2022) 第十次同學會 ([照片視頻一](https://youtu.be/cyyE0joKxIY))、([照片視頻二](https://youtu.be/Dl_muTFgQBY))
+- (12/12/2020) 第九次同學會 ([照片視頻](https://youtu.be/GWNC5VGvrHo))
+- (11/02/2019) 第八次同學會 ([照片視頻](https://youtu.be/CLpYDSBWbsA))
+- (06/15/2019) 第七次同學會 ([照片視頻一](https://youtu.be/le_EiV2poX8))、([照片視頻二](https://youtu.be/hHQb5lkiAYA))、([照片視頻三](https://youtu.be/VfdmmeQ4lrs))
+- (12/08/2018) 第六次同學會 ([照片視頻一](https://youtu.be/ru6YPUTw58g))、([照片視頻二](https://youtu.be/dcanzq8g1WI))、([照片視頻三](https://youtu.be/5PqXuAfJtds))
+- (12/30/2017) 第五次同學會 ([照片視頻](https://youtu.be/TL7nq6FsoB4))
+- (12/11/2016) 第四次同學會 ([照片視頻](https://youtu.be/AuqMf2jOTNs))
+- (12/27/2015) 第三次同學會 ([照片視頻](https://youtu.be/V2LJQLX21Mg))
 - (12/21/2014) 第二次同學會 ([照片視頻](https://youtu.be/sHEbaovVSRc))
 - (11/08/2014) 第一次同學會 ([照片視頻](https://youtu.be/o1cKe7Z_e2s))
 
+<!--隱藏範例
+- (12/27/2015) 第三次同學會 ([照片視頻](/img/reunion_3.mp4))
+-->
 歡迎同學們到同學會群組記事本欣賞衆多善心同學與義工幫忙錄製的每次同學會所有照片視頻和影片視頻
 
 **母校重大記事**
