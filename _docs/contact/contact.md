@@ -23,5 +23,5 @@ sectionid: contact
 - 林佩瑩 王秀麗長女<br/>
   email: pay0905@gmail.com
 
-- 王勻芯 王榮騰姪女<br/>
-  email: cocoshe37200128@gmail.com
+- 郭子生 臺大電機系<br/>
+  email: awinder0230@gmail.com
