@@ -12,6 +12,7 @@ sectionid: update
 
 **同學會活動**
 
+- (05/23/2026) 第17次同學會 ([照片視頻](https://youtu.be/sjJCC9Zq9K0))
 - (11/15/2025) 第16次同學會 ([照片視頻](https://youtu.be/PnDeRhfH_F4))
 - (04/26/2025) 第15次同學會 ([照片視頻](https://youtu.be/EvqQ9hTsBHI))
 - (11/02/2024) 第14次同學會 ([照片視頻](https://youtu.be/YcmxKPLMbq0))
