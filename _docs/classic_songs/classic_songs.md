@@ -8,7 +8,7 @@ sectionid: classic_songs
 
   <tr>
    <td width="265px">
-     <iframe width="260" height="146" src="https://www.youtube.com/embed/9odisjvWvD0?si=RDsCKnJRN8OCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+     <iframe width="260" height="146" src="https://www.youtube.com/embed/sCKnJRN8OCk?si=aCG8AjZ-YH0XidtH" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    </td>
    <td class="photo-text">
      來自花東的風 (2026) 丹&妮Music creation
