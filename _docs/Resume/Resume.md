@@ -59,7 +59,7 @@ border-bottom: none;
   <thead>
     <tr>
       <th class="col-name">姓 名</th>
-      <th class="col-achievement">特 殊 成 就</th>
+      <th class="col-achievement">主 要 經 歷 與 成 就</th>
     </tr>
   </thead>
   
