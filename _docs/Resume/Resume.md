@@ -3,6 +3,7 @@ title: 個人簡歷
 permalink: /Resume/
 sectionid: Resume
 ---
+
 <head>
   <style>
   .resume-table {
@@ -13,42 +14,43 @@ sectionid: Resume
     border: none;
   }
 
-  .resume-table th {
-    font-size: 16px;
-    padding: 10px;
-    border: none;
-    text-align: center;
-  }
+.resume-table th {
+font-size: 16px;
+padding: 10px;
+border: none;
+text-align: center;
+}
 
-  .col-name {
-    width: 30%;
-  }
+.col-name {
+width: 30%;
+}
 
-  .col-achievement {
-    width: 70%;
-  }
+.col-achievement {
+width: 70%;
+}
 
-  .cell-name, .cell-achievement {
-    text-align: center;
-    vertical-align: middle;
-    padding: 10px;
-    border-bottom: 1px solid #ccc;
-  }
+.cell-name, .cell-achievement {
+text-align: center;
+vertical-align: middle;
+padding: 10px;
+border-bottom: 1px solid #ccc;
+}
 
-  .cell-name {
-    border-top: 2px solid #ccc;
-  }
+.cell-name {
+border-top: 2px solid #ccc;
+}
 
-  .cell-achievement {
-    line-height: 1.5;
-    border-top: 2px solid #ccc;
-  }
+.cell-achievement {
+line-height: 1.5;
+border-top: 2px solid #ccc;
+}
 
-  /* 最後一列不要再有底線（美化） */
-  .resume-table tr:last-child td {
-    border-bottom: none;
-  }
-  </style>
+/_ 最後一列不要再有底線（美化） _/
+.resume-table tr:last-child td {
+border-bottom: none;
+}
+</style>
+
 </head>
 
 <body>
@@ -81,10 +83,11 @@ sectionid: Resume
     <tr>
       <td class="cell-name">王俊雄</td>
       <td class="cell-achievement">
+        屏東萬丹鰻魚養殖場負責人<br>
         東立飼料財務經理
       </td>
     </tr>
-        <tr>
+    <tr>
       <td class="cell-name">謝金花</td>
       <td class="cell-achievement">
         聖志企業董事長<br>
@@ -92,13 +95,13 @@ sectionid: Resume
         慈善捐贈逾兩仟萬元回饋社會
       </td>
     </tr>
-        <tr>
+    <tr>
       <td class="cell-name">楊春龍</td>
       <td class="cell-achievement">
         瑞紳工業董事長
       </td>
     </tr>
-        <tr>
+    <tr>
       <td class="cell-name">陳清智</td>
       <td class="cell-achievement">
         合盛水電工程董事長
@@ -112,14 +115,15 @@ sectionid: Resume
         臺南一中、臺灣大學傑出校友
       </td>
     </tr>
-        <tr>
+    <tr>
       <td class="cell-name">王猷裁</td>
       <td class="cell-achievement">
         聯東金屬董事長<br>
-        高雄市愛種樹協會好人好樹報導
+        高雄市生命線第37屆理事<br>
+        高雄市愛種樹協會永久會員，提供土地供植樹公益使用
       </td>
     </tr>
-        <tr>
+    <tr>
       <td class="cell-name">王萬枝</td>
       <td class="cell-achievement">
         順瑞工程總經理<br>
@@ -132,7 +136,7 @@ sectionid: Resume
         通利通運董事長
       </td>
     </tr>
-        <tr>
+    <tr>
       <td class="cell-name">程子桓</td>
       <td class="cell-achievement">
         立創光電董事長<br>
@@ -140,12 +144,49 @@ sectionid: Resume
         高雄市政府與中央共同推動航太產業轉型升級優良廠商
       </td>
     </tr>
-        <tr>
+    <tr>
       <td class="cell-name">蘇宗欽</td>
       <td class="cell-achievement">
         欽揚科技總經理<br>
         擴編一甲國小國樂社為大型國樂團，屢獲全國性比賽績優<br>
         自2010年起每年捐贈一甲國小累積達3百萬元
+      </td>
+    </tr>
+    <tr>
+      <td class="cell-name">蘇銀芬</td>
+      <td class="cell-achievement">
+        立創光電首任董事長<br>
+        高雄市路竹區竹東社區發展協會監事
+      </td>
+    </tr>
+    <tr>
+      <td class="cell-name">林秀碧</td>
+      <td class="cell-achievement">
+        三進畜牧場創場負責人
+      </td>
+    </tr>
+    <tr>
+      <td class="cell-name">楊春龍</td>
+      <td class="cell-achievement">
+        瑞紳工業董事長<br>
+        2004年至2026年完成320場全馬以上賽事<br>
+        2013年完成24小時國際超級馬拉松賽事，累計超過120公里
+      </td>
+    </tr>
+    <tr>
+      <td class="cell-name">XXX</td>
+      <td class="cell-achievement">
+        XXX<br>
+        XXX<br>
+        XXX
+      </td>
+    </tr>
+    <tr>
+      <td class="cell-name">XXX</td>
+      <td class="cell-achievement">
+        XXX<br>
+        XXX<br>
+        XXX
       </td>
     </tr>
   </tbody>  
