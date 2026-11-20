@@ -98,7 +98,9 @@ border-bottom: none;
     <tr>
       <td class="cell-name">楊春龍</td>
       <td class="cell-achievement">
-        瑞紳工業董事長
+        瑞紳工業董事長<br>
+        2004年至2026年完成320場全馬以上賽事<br>
+        2013年完成24小時國際超級馬拉松賽事，累計超過120公里
       </td>
     </tr>
     <tr>
@@ -163,30 +165,6 @@ border-bottom: none;
       <td class="cell-name">林秀碧</td>
       <td class="cell-achievement">
         三進畜牧場創場負責人
-      </td>
-    </tr>
-    <tr>
-      <td class="cell-name">楊春龍</td>
-      <td class="cell-achievement">
-        瑞紳工業董事長<br>
-        2004年至2026年完成320場全馬以上賽事<br>
-        2013年完成24小時國際超級馬拉松賽事，累計超過120公里
-      </td>
-    </tr>
-    <tr>
-      <td class="cell-name">XXX</td>
-      <td class="cell-achievement">
-        XXX<br>
-        XXX<br>
-        XXX
-      </td>
-    </tr>
-    <tr>
-      <td class="cell-name">XXX</td>
-      <td class="cell-achievement">
-        XXX<br>
-        XXX<br>
-        XXX
       </td>
     </tr>
   </tbody>  
