@@ -139,6 +139,19 @@ border-bottom: none;
       </td>
     </tr>
     <tr>
+      <td class="cell-name">林秀碧</td>
+      <td class="cell-achievement">
+        三進畜牧場創場負責人
+      </td>
+    </tr>
+    <tr>
+      <td class="cell-name">蘇銀芬</td>
+      <td class="cell-achievement">
+        立創光電首任董事長<br>
+        高雄市路竹區竹東社區發展協會監事
+      </td>
+    </tr>
+    <tr>
       <td class="cell-name">程子桓</td>
       <td class="cell-achievement">
         立創光電董事長<br>
@@ -152,19 +165,6 @@ border-bottom: none;
         欽揚科技總經理<br>
         擴編一甲國小國樂社為大型國樂團，屢獲全國性比賽績優<br>
         自2010年起每年捐贈一甲國小累積達3百萬元
-      </td>
-    </tr>
-    <tr>
-      <td class="cell-name">蘇銀芬</td>
-      <td class="cell-achievement">
-        立創光電首任董事長<br>
-        高雄市路竹區竹東社區發展協會監事
-      </td>
-    </tr>
-    <tr>
-      <td class="cell-name">林秀碧</td>
-      <td class="cell-achievement">
-        三進畜牧場創場負責人
       </td>
     </tr>
   </tbody>  
